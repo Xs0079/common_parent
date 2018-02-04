@@ -1,4 +1,4 @@
-·package com.yxp.common.cache.redis.common.cachekey.messageHandler;
+package com.yxp.common.cache.redis.common.cachekey.messageHandler;
 
 import com.yxp.common.cache.redis.common.ICacheKey;
 

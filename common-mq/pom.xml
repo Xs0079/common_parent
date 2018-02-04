@@ -35,7 +35,7 @@
         </dependency>
 
         <dependency>
-            <groupId>com.youxinpai.cloud</groupId>
+            <groupId>com.xs.cloud</groupId>
             <artifactId>common-util</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
